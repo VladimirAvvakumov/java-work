@@ -1,0 +1,16 @@
+авг. 15, 2024 7:19:37 PM sem2.task1 readDir
+INFO: Error reading directory: C:\konspects
+авг. 15, 2024 7:19:37 PM sem2.task1 readDir
+INFO: Error reading directory: C:\konspects
+авг. 15, 2024 7:19:37 PM sem2.task1 writeToFile
+INFO: Error writing directory: konspekt.md
+авг. 15, 2024 7:19:37 PM sem2.task1 writeToFile
+INFO: Error writing directory: README.md
+сент. 09, 2024 6:32:48 PM sem2.task1 readDir
+INFO: Error reading directory: C:\konspects
+сент. 09, 2024 6:32:48 PM sem2.task1 writeToFile
+INFO: Error writing directory: .git
+сент. 09, 2024 6:32:48 PM sem2.task1 writeToFile
+INFO: Error writing directory: konspekt.md
+сент. 09, 2024 6:32:48 PM sem2.task1 writeToFile
+INFO: Error writing directory: README.md

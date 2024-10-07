@@ -1,0 +1,4 @@
+авг. 14, 2024 3:55:23 PM lection2.task6 main
+WARNING: Тестовое логирование 1
+авг. 14, 2024 3:55:23 PM lection2.task6 main
+INFO: Тестовое логирование 2

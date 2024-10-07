@@ -1,0 +1,3 @@
+.git
+konspekt.md
+README.md
